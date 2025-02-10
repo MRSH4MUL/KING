@@ -1,7 +1,7 @@
 #Sc BY MR SH4MUL
 #Teligerm : https://t.me/AnonymousCyberShieldBDACS
 #____________[ IMPORT - LIBRARY ]____________#
-import os,random,uuid,httpx,json,sys
+import os,random,uuid,json,sys
 from time import sleep as slp
 from concurrent.futures import ThreadPoolExecutor as ted 
 import os
